@@ -1,0 +1,10 @@
+/META{"name":"W360S","description":"Modified Omniscient skin","author":"FakeChapo","version":"1.0"}*//
+
+/* Sourcecode*/
+@import url("https://rawgit.com/FakeChapo/Discord/master/SourceCode.css");
+
+/* Kolorki */
+:root { 
+ --main-color: #006F00;
+ --hover-color: #005000;
+ }
