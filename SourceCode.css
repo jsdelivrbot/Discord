@@ -3266,8 +3266,6 @@ polyline[stroke*="#7289da"]{stroke:var(--main-color) !important;}
 
 .ui-standard-sidebar-view #bd-settingspane-container .content-column.default{position:relative;}
 
-.content-region #bd-customcss-attach-controls::after{width:100%;padding:10px;content:"To change the default colors just copy and paste the code below\A and replace the hex codes with your own. (those are my colors)\A \A:root{\A --main-color:#e91e63 !important;\A --hover-color:#b81147 !important;\A}\A\A To add custom options to the theme, copy the following code from\A my server and place the options you want in the box above.\A\A Don't forget to save/update when you're done!\A";background:#43B581;margin-top:10px;display:block;border-radius:2px;font-family:Consolas, Liberation Mono, Menlo, Courier, monospace;white-space:pre;color:#fff;margin-bottom:0px;width:auto;}
-
 /*settings icons*/
 .user-settings-modal .tab-bar.SIDE .tab-bar-item::before {
     opacity: 1!important;
